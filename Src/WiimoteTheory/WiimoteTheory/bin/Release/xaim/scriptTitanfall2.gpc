@@ -1,0 +1,4 @@
+main {
+sensitivity(XB1_LX, 20, 120)
+sensitivity(XB1_LY, 20, 120)
+}

@@ -1,0 +1,8 @@
+main 
+{
+if (get_val(XB1_Y))
+{
+	swap(XB1_LX,XB1_RX);
+	swap(XB1_LY,XB1_RY);
+}
+}

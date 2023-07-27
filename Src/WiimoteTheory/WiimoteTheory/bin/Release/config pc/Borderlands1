@@ -1,0 +1,215 @@
+C:\Users\Mic\Documents\micedition\WiimoteOnPC\Borderlands1
+//brink
+False
+//metro
+True
+//titanfall
+False
+//cursor
+False
+//warface
+False
+//bo3
+False
+//fake
+False
+//mw3
+False
+//xaim
+False
+//A press I/O
+False
+//A accuracy
+False
+//no roll qe
+False
+//Home f only
+True
+//wheel script
+True
+//A view on
+False
+//1 tab I/O
+False
+//A aim plus
+False
+//Home -> - & +
+False
+//stick view
+False
+//wheel view
+False
+//1 and 2 view
+False
+//nunchuck
+True
+//rebind keys
+True
+//lock features and options
+False
+//1 B swap
+False
+//A C swap
+False
+//push r 1'
+False
+//cancel reload x
+False
+//double A r
+False
+//1 tab switch
+False
+//A slide A+B
+False
+//dpad view
+False
+//A B switch
+False
+//Z press I/O
+False
+//driver mouse
+False
+//driver keyboard
+False
+//stick arrows
+False
+//A roll qe
+False
+//cancel reload x
+X
+//double A r
+R
+//1 tab switch
+ 
+//nunchuck stick
+ZQSD
+//wiimote alone wheel
+QD
+//wiimote alone up
+Q
+//wiimote alone down
+D
+//wiimote b
+left click
+//wiimote a
+right click
+//wiimote plus
+G
+//wiimote minus
+T
+//wiimote alone roll left
+A
+//wiimote alone home
+Escape
+//wiimote alone a and b
+Enter
+//wiimote alone left
+Y
+//wiimote alone right
+U
+//wiimote alone 1
+S
+//wiimote alone 2
+W
+//wiimote nunchuck roll right
+E
+//wiimote nunchuck roll left
+A
+//wiimote to front
+R
+//nunchuck to down
+V
+//nunchuck to down
+V
+//nunchuck to down
+V
+//nunchuck z and c
+Control
+//nunchuck c
+Space
+//nunchuck z
+Shift
+//wiimote nunchuck down
+C
+//wiimote nunchuck home
+F
+//wiimote nunchuck left
+Y
+//wiimote nunchuck right
+U
+//wiimote nunchuck up
+X
+//wiimote nunchuck 1
+Tab
+//wiimote nunchuck 2
+Escape
+//angleinit
+0
+//irxinit
+0
+//iryinit
+0
+//wiimote to front push r time extra setting
+1000
+//double A push r time extra setting
+1000
+//cancel reload waiting A or C time extra setting
+1800
+//second nunchuck to down push v time extra setting
+500
+//brink or titanfall time extra setting
+30
+//bo3 time extra setting
+15
+//smooth time extra setting
+15
+//aim plus latency time extra setting
+300
+//aim plus quantity extra setting
+30
+//anti-tearing outer size
+0
+//hardness quantity
+50
+//aim speed axis x quantity
+100
+//aim speed axis y quantity
+100
+//aim speed accuracy size of center axis x extra setting
+0
+//aim speed accuracy multipler of center axis x extra setting
+0
+//aim speed accuracy size of center axis y extra setting
+0
+//aim speed accuracy multipler of center axis y extra setting
+0
+//no recoil quantity extra setting
+0
+//1 tab switch interval time extra setting
+50
+//1 tab switch press delay time extra setting
+10
+//tick time
+6
+//wheel script stick limit in
+33
+//wheel script stick limit out
+2000
+//wheel script gyroscope limit in
+20
+//wheel script gyroscope limit out
+1200
+//zoning quantity
+220
+//zoning hardness quantity
+210
+//no recoil step quantity
+0
+//slide init
+450
+//slide time
+900
+//possible entries
+WASD, ZQSD, arrow keys, AD, QD, left right arrow keys, A, B, C, D, E, ..., X, Y, Z, 0, 1, 2, ..., 8, 9, F1, F2, F3, ..., F11,
+F12, Capslock, Alt, Back, Apostrophe, left, right, up, down, Escape, Control, LControl, RControl, Shift, LShift, RShift,
+Enter, Space, Tab, wheel down, wheel up, middle click, left click, right click, 0-4, 5-9, Enter/Tab.

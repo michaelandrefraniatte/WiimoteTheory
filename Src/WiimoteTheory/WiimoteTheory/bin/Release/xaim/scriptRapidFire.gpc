@@ -1,0 +1,15 @@
+main
+{
+    if(get_val(XB1_RT))
+    {
+        combo_run(RAPID_FIRE);
+    }
+}
+combo RAPID_FIRE
+{
+    set_val(XB1_RT, 100);
+    wait(40);
+    set_val(XB1_RT, 0);
+    wait(30);
+    set_val(XB1_RT, 0);
+}

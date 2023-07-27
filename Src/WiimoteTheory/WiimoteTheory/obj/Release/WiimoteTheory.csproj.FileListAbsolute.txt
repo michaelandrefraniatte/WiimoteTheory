@@ -1,0 +1,22 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\micedition\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.exe.config
+C:\Users\Mic\Documents\micedition\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.exe
+C:\Users\Mic\Documents\micedition\WiimoteByMic - C#\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.pdb
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.exe.config
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.exe
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\bin\Release\WiimoteTheory.pdb
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.Form1.resources
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.exe
+C:\Users\mic\Documents\GitHub\WiimoteTheory\Src\WiimoteTheory\WiimoteTheory\obj\Release\WiimoteTheory.pdb

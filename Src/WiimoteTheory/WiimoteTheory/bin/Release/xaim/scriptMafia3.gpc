@@ -1,0 +1,47 @@
+int wd = 2;
+int wu = 2;
+int bool = 0;
+int timeout = 0;
+main 
+{
+if (get_val(XB360_LB) && get_val(XB360_LS) && get_val(XB360_A))
+{
+	timeout = timeout + 1;
+	if (wd <= 1)
+	{
+		wd = wd + 1;
+	}
+	wu = 0;
+}
+else
+{
+	if (wu <= 1)
+	{
+		wu = wu + 1;
+	}
+	wd = 0;
+}
+if (wd == 1)
+{
+	timeout = 0;
+}
+if (wu == 1 && timeout < 100)
+{
+	if (bool == 0)
+	{
+		bool = 1;
+	}
+	else
+	{
+		bool = 0;
+	}
+}
+if (bool == 1)
+{
+	swap(XB360_START,XB360_RT);
+	swap(XB360_BACK,XB360_LT);
+	swap(XB360_RX,XB360_LX);
+	swap(XB360_RY,XB360_LY);
+	swap(XB360_X,XB360_RB);
+}
+}

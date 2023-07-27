@@ -1,0 +1,49 @@
+int wd = 2;
+int wu = 2;
+int bool = 0;
+int timeout = 0;
+main 
+{
+if (get_val(XB1_RB) && get_val(XB1_LS) && get_val(XB1_A))
+{
+	timeout = timeout + 1;
+	if (wd <= 1)
+	{
+		wd = wd + 1;
+	}
+	wu = 0;
+}
+else
+{
+	if (wu <= 1)
+	{
+		wu = wu + 1;
+	}
+	wd = 0;
+}
+if (wd == 1)
+{
+	timeout = 0;
+}
+if (wu == 1 && timeout < 100)
+{
+	if (bool == 0)
+	{
+		bool = 1;
+	}
+	else
+	{
+		bool = 0;
+	}
+}
+if (bool == 1)
+{
+	swap(XB1_RX,XB1_LX);
+	swap(XB1_RY,XB1_LY);
+}
+if (get_val(XB1_RB))
+{
+	swap(XB1_RX,XB1_LX);
+	swap(XB1_RY,XB1_LY);
+}
+}
